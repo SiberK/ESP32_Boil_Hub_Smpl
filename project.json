@@ -1,0 +1,17 @@
+{
+	"name": "Boiler_ESP32",
+	"about": "Программа управления автоматическим котлом",
+	"version": "1.0",
+	"notes": "Комментарии к обновлению",
+	"builds": [
+	  {
+		"chipFamily": "ESP32, ESP32-S3",
+		"parts": [
+		  {
+			"path": "https://github.com/SiberK/ESP32_Boil_Hub_Smpl/raw/refs/heads/main/bin/firmware.bin",
+			"offset": 0
+		  }
+		]
+	  }
+	]
+  }
