@@ -8,7 +8,7 @@
 		"chipFamily": "ESP32, ESP32-S3",
 		"parts": [
 		  {
-			"path": "https://github.com/SiberK/ESP32_Boil_Hub_Smpl/raw/refs/heads/main/bin/firmware.bin",
+			"path": "https://raw.githubusercontent.com/SiberK/ESP32_Boil_Hub_Smpl/main/bin/firmware.bin",
 			"offset": 0
 		  }
 		]
