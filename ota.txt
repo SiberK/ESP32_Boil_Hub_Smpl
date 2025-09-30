@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/SiberK/ESP32_Boil_Hub_Smpl/main/bin/firmware_5.0.07.bin
